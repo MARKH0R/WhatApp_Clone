@@ -1,0 +1,4 @@
+#Mon Jul 17 21:49:43 PKT 2023
+base.0=/home/markhor/StudioProjects/whats_app_ui/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
